@@ -1,5 +1,5 @@
 {
-  "name": "24game-solver",
+  "name": "24game-solver-fork",
   "version": "1.0.2",
   "description": "Solve 24 Game with less duplicated results.",
   "main": "dist/24game-solver.js",
