@@ -38,3 +38,6 @@ jspm_packages
 
 __index__.js
 __test__.js
+
+# Dist
+dist/
